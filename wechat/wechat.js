@@ -185,3 +185,4 @@ WeChat.prototype.handleMsg = function(req,res){
     });
   });
 }
+module.exports = WeChat;
